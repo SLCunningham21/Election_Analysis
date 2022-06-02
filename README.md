@@ -20,4 +20,5 @@
 **1. Total Votes in the election are printed to the terminal**
 
 > Image with `Python` Code below.
-> 
+* (TotalVotesintheelectionareprintedtotheterminal.PNG)
+(https://github.com/SLCunningham21/Election_Analysis/blob/main/Resources/Total-Votes-in-the-election-are-printed-to-the-terminal.PNG)
